@@ -4,7 +4,7 @@
 
 ## Description
 This application allows users to keep track of books they like, search for new ones, and remove books from their stash that they don't like.  All of this is done using a integrated web api and external db to keep track of their choices and help keep their information safe.
-<img src="">
+<img src="./MERN-Book-REPO.png">
 
 ## Table of Contents (if applicable)
 
