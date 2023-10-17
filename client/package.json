@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "engines": {
-    "nodejs": "16.x"
+    "node": "16.x"
   },
   "type": "module",
   "scripts": {
