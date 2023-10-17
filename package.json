@@ -19,6 +19,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "bcrypt": "^5.1.1"
+    "bcrypt": "^5.1.1",
+    "bcyrptjs": "^2.4.3"
   }
 }
