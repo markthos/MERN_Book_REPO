@@ -30,7 +30,6 @@ N/A
 ## Usage
 Use the link to [Mern-Book-REPO](https://mern-book-repo-549878f94ee9.herokuapp.com/) and signup with a unique username, email, and password.  Then start searching for your favorite books and add them to your collection.
 
-[How to use the E-Commerce Back End API](https://drive.google.com/file/d/1oXeesaLibs7sXwsf1OvSyz6b5pNa9maA/view)
 
 ## License
 This project is covered under the MIT [License](https://choosealicense.com/licenses/${license}).
